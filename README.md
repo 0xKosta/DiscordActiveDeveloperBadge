@@ -10,7 +10,7 @@ Once ready, either double click on ```main.py``` or open up a Terminal/Command p
 
 Once you've done that, all of the requirements will be installed, and you will be asked to put in your bot's token.
 
-#NOTE: This bot is reusable!
+# NOTE: This bot is reusable!
 
 Once you've finished the initial setup, if you find yourself interested in developing discord bots, you can modify the ``bot.py`` file, and you can start the bot again by running main.py, and it will run with no need to go through the setup again.
 
